@@ -1,4 +1,5 @@
-me": "gittutorial",
+{
+"name": "gittutorial",
    "version": "1.0.0",
    "description": "This is a readme file",
    "main": "index.js",

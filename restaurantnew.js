@@ -103,4 +103,8 @@ function serve(maindish, sidedish, drinks) {
     }
     console.log("\nTotal Price :", totalPrice, "Rupees");
 }
+<<<<<<< HEAD
 order('Steak', 'Fries', 'Pop');
+=======
+order('Steak', 'Fries', 'Pop');
+>>>>>>> 613e59398e11f8bb89cb7463282cc806411daeb9
